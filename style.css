@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.custom-container {
+    background-image: url('assets/page_2.png');
+    height: 95vh;
+    width: 90%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    margin-top: 2.2rem;
+
+}
+
+input {
+    padding: 5px;
+    width: 33%;
+}
+
+button {
+    width: 30%;
+}
+.form-inline{
+    width:180px;
+}
